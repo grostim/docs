@@ -169,6 +169,7 @@ nav:
             - Wrapperr: sandbox/apps/wrapperr.md
           # - Requests:
           - Requests:
+            - Doplarr: sandbox/apps/doplarr.md
             - Ombi: sandbox/apps/ombi.md
             - Ombix: sandbox/apps/ombix.md
             - Requestrr: sandbox/apps/requestrr.md
@@ -316,6 +317,7 @@ nav:
               - Installing Saltbox on a home server: reference/guides/chazguides/home-server.md
         - Linux:
           - Aliases: reference/guides/aliases.md
+          - Coder for easier file editing: reference/guides/coder-setup.md
         - Plex:
           - Tautulii Custom Scripts: reference/guides/tautuliscripts.md
         - Downloading:
